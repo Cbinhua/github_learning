@@ -6,4 +6,11 @@ Key Points
   
   
   Step 1. Create a Repository
+      ①In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+      ②Name your repository hello-world
+      ③Write a short description.
+      ④Select Initialize this repository with a README.
+  Step 2. Create a branch（Branching is the way to work on different versions of a repository at one time.）
+      
+      
         
