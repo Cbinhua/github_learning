@@ -15,6 +15,11 @@ Key Points
       of master as it was at that point in time. If someone else made changes to the
       master branch while you were working on your branch, you could pull in those updates.
   Step 3. Make and commit changes
-    
+      ①Click the README.md file.
+      ②Click the  pencil icon in the upper right corner of the file view to edit.
+      ③In the editor, write a bit about yourself.
+      ④Write a commit message that describes your changes.
+      ⑤Click Commit changes button.
+  Step 4. Open a Pull Request
       
         
